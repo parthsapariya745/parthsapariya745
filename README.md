@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/parth sapariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth sapariya" height="30" width="40" /></a>
-<a href="https://fb.com/pa sapariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pa sapariya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/parth-sapariya-91b1b4379/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth sapariya" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1DAx5LB5KL/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pa sapariya" height="30" width="40" /></a>
 <a href="https://instagram.com/parth_sapariya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parth_sapariya_" height="30" width="40" /></a>
 </p>
 
