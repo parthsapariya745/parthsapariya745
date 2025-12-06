@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsapariya745&label=Profile%20views&color=0e75b6&style=flat" alt="parthsapariya745" /> </p>
 
-- 🌱 I’m currently learning **React JS & Next JS**
+- 🌱 I’m currently learning **Next JS & Node JS**
 
 - 💬 Ask me about **Expertise of Tailwind CSS**
 
