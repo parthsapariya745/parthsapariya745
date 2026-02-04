@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Sapariya</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-<img alt="coding-gif" align='right' width="600" src="./github-profile-image.gif">
+<img alt="coding-gif" align='right' width="500" src="./github-profile-image.gif">
 
 - 🌱 I’m currently learning **Next JS & Node JS**
 
