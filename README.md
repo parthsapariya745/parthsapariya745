@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding-gif" width="400" src="https://res.cloudinary.com/dnxfa3xzj/image/upload/v1770199207/github-profile-image_iwpbys.gif">
 
-<p align="left"> <img src="https://res.cloudinary.com/dnxfa3xzj/image/upload/v1770199207/github-profile-image_iwpbys.gif" alt="parthsapariya745" /> </p>
-
 - 🌱 I’m currently learning **Next JS & Node JS**
 
 - 💬 Ask me about **Expertise of Tailwind CSS**
