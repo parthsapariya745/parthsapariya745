@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="./github-profile-image.gif" width="500" alt="Coding Animation" />
+  <img src="./github-profile-image.gif" width="550" alt="Coding Animation" />
 </p>
 
 <p align="center">
