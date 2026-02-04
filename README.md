@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Sapariya</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="coding-gif" width="400" src="https://res-console.cloudinary.com/dnxfa3xzj/thumbnails/v1/image/upload/v1770199207/Z2l0aHViLXByb2ZpbGUtaW1hZ2VfaXdwYnlz/drilldown">
+<img align="right" alt="coding-gif" width="400" src="https://res.cloudinary.com/dnxfa3xzj/image/upload/v1770199207/github-profile-image_iwpbys.gif">
 
 <p align="left"> <img src="https://res.cloudinary.com/dnxfa3xzj/image/upload/v1770199207/github-profile-image_iwpbys.gif" alt="parthsapariya745" /> </p>
 
