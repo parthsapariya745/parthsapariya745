@@ -63,7 +63,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
 </p>
 
 ### 🧰 Tools & Platforms
@@ -71,30 +70,22 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthsapariya745&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthsapariya745&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsapariya745&layout=compact&theme=tokyonight" width="48%" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthsapariya745&" alt="parthsapariya745" /></p>
 
 ---
 
 ## 🚀 Featured Projects
 
 - 💰 Expense & Income Tracker (React + Redux + Node.js)
+- 💬 Quiz App
+- 📊 Number Guessing Game
 - 🛒 Myntra Clone (HTML, CSS, JavaScript)
-- 💬 Real-Time Chat App
-- 📊 Admin Dashboard System
 
 ---
 
