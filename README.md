@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding-gif" width="400" src="https://res-console.cloudinary.com/dnxfa3xzj/thumbnails/v1/image/upload/v1770199207/Z2l0aHViLXByb2ZpbGUtaW1hZ2VfaXdwYnlz/drilldown">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsapariya745&label=Profile%20views&color=0e75b6&style=flat" alt="parthsapariya745" /> </p>
+<p align="left"> <img src="https://res.cloudinary.com/dnxfa3xzj/image/upload/v1770199207/github-profile-image_iwpbys.gif" alt="parthsapariya745" /> </p>
 
 - 🌱 I’m currently learning **Next JS & Node JS**
 
