@@ -1,24 +1,110 @@
 <h1 align="center">Hi 👋, I'm Parth Sapariya</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-<img alt="coding-gif" align='right' width="500" src="./github-profile-image.gif">
-
-- 🌱 I’m currently learning **Next JS & Node JS**
-
-- 💬 Ask me about **Expertise of Tailwind CSS**
-
-- 📫 How to reach me **parthsapariyait7@gmail.com**
-
-- ⚡ Fun fact **I am funny😂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/parth-sapariya-91b1b4379/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth sapariya" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/1DAx5LB5KL/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pa sapariya" height="30" width="40" /></a>
-<a href="https://instagram.com/parth_sapariya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parth_sapariya_" height="30" width="40" /></a>
+<p align="center">
+  <img src="./github-profile-image.gif" width="500" alt="Coding Animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background-color: black;"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  🚀 Full Stack Developer | 💻 React • Redux • Tailwind • Node.js | 📈 Lifelong Learner
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthsapariya745&" alt="parthsapariya745" /></p>
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Next.js & Advanced Node.js**
+- 💬 Ask me about **React, Redux, Tailwind CSS, JavaScript**
+- 📫 Reach me at **parthsapariyait7@gmail.com**
+- ⚡ Fun fact: **I love building real-world projects 😄**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/parth-sapariya-91b1b4379/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/share/1DAx5LB5KL/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/parth_sapariya_" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+### 💻 Programming Languages
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+</p>
+
+### 🌐 Frontend
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45"/>
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthsapariya745&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthsapariya745&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsapariya745&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 💰 Expense & Income Tracker (React + Redux + Node.js)
+- 🛒 Myntra Clone (HTML, CSS, JavaScript)
+- 💬 Real-Time Chat App
+- 📊 Admin Dashboard System
+
+---
+
+## ✨ Goals for 2026
+
+- ✅ Master Full Stack Development
+- ✅ Build SaaS Products
+- ✅ Get Placement / Remote Job
+- ✅ Contribute to Open Source
+
+---
+
+⭐️ If you like my work, consider giving a star to my repositories!
