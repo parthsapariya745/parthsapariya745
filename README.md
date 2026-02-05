@@ -64,7 +64,7 @@
 <td align="center" width="50%">
 
 ### ⚙️ Backend & Database  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 </td>
 
