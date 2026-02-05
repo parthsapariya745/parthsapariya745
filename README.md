@@ -2,24 +2,8 @@
 <h3 align="center">🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast</h3>
 <h3 align="center">🎯 Passionate about building scalable & real-world web applications</h3>
 
-<!-- <p align="center">
-  <img src="./github-profile-image.gif"
-       width="550"
-       style="border-radius:15px;
-              padding:4px;
-              background:linear-gradient(90deg,#ff00cc,#3333ff,#00ffcc);"
-       alt="Coding Animation"/>
-</p> -->
-
 <p align="center">
-  <a href="#">
-    <img src="https://svg-banners.vercel.app/api?type=glow&text=Parth+Sapariya+-+Full+Stack+Developer&width=800&height=300"
-    alt="Banner"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="./github-profile-image.gif" width="500" />
+  <img src="./github-profile-image.gif" width="550" />
 </p>
 
 <p align="center">
