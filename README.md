@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parth Sapariya</h1>
-<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">🎯 Passionate about building scalable & real-world web applications</h3>
 
 <p align="center">
   <img src="./github-profile-image.gif" width="550" alt="Coding Animation" />
@@ -13,10 +14,12 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Next.js & Advanced Node.js**
-- 💬 Ask me about **React, Redux, Tailwind CSS, JavaScript**
-- 📫 Reach me at **parthsapariyait7@gmail.com**
-- ⚡ Fun fact: **I love building real-world projects 😄**
+- 🌱 Currently learning **Next.js & Advanced Node.js**  
+- 💻 Strong in **MERN Stack Development**  
+- 🛠️ Love working on **Real-World & Production-Level Projects**  
+- 💬 Ask me about **React, Redux, Tailwind CSS, JavaScript**  
+- 📫 Email: **parthsapariyait7@gmail.com**  
+- ⚡ Fun Fact: *I enjoy solving problems through code 😄*  
 
 ---
 
@@ -38,39 +41,39 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools  
 
-### 💻 Programming Languages
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
-</p>
+<table>
+<tr>
+<td align="center" width="25%">
 
-### 🌐 Frontend
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45"/>
-</p>
+### 💻 Languages  
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
 
-### ⚙️ Backend & Database
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-</p>
+</td>
 
-### 🧰 Tools & Platforms
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
-</p>
+<td align="center" width="25%">
+
+### 🌐 Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,nextjs" />
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧰 Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</td>
+</tr>
+</table>
 
 ---
 
