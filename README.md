@@ -5,11 +5,11 @@
 <p align="center">
   <img src="./github-profile-image.gif"
        width="550"
-       style="border-radius:15px; box-shadow:0 0 25px #00ffcc; border:2px solid #00ffcc;"
-       alt="Coding Animation"
-  />
+       style="border-radius:15px;
+              padding:4px;
+              background:linear-gradient(90deg,#ff00cc,#3333ff,#00ffcc);"
+       alt="Coding Animation"/>
 </p>
-
 
 <p align="center">
   🚀 Full Stack Developer | 💻 React • Redux • Tailwind • Node.js | 📈 Lifelong Learner
