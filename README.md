@@ -43,33 +43,35 @@
 
 ## 🛠️ Languages & Tools  
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="50%">
 
-### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
+### 💻 Programming Languages  
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts&perline=4" />
 
 </td>
 
 <td align="center" width="50%">
 
-### 🌐 Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,nextjs" />
+### 🌐 Frontend Development  
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,nextjs&perline=6" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### ⚙️ Backend & Database  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" />
 
 </td>
 
 <td align="center" width="50%">
 
-### ⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-</td>
-
-<td align="center" width="50%">
-
-### 🧰 Tools  
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### 🧰 Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
 
 </td>
 </tr>
