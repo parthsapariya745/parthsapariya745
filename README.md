@@ -45,28 +45,28 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="50%">
 
 ### 💻 Languages  
 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="50%">
 
 ### 🌐 Frontend  
 <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,nextjs" />
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="50%">
 
 ### ⚙️ Backend  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="50%">
 
 ### 🧰 Tools  
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
