@@ -3,8 +3,13 @@
 <h3 align="center">🎯 Passionate about building scalable & real-world web applications</h3>
 
 <p align="center">
-  <img src="./github-profile-image.gif" width="550" alt="Coding Animation" />
+  <img src="./github-profile-image.gif"
+       width="550"
+       style="border-radius:15px; box-shadow:0 0 25px #00ffcc; border:2px solid #00ffcc;"
+       alt="Coding Animation"
+  />
 </p>
+
 
 <p align="center">
   🚀 Full Stack Developer | 💻 React • Redux • Tailwind • Node.js | 📈 Lifelong Learner
