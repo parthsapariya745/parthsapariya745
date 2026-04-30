@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🚀 Full Stack Developer | 💻 React • Redux • Tailwind • Node.js | 📈 Lifelong Learner
+  🚀 Full Stack Developer | 💻 Next • Typescript • Redux • Node.js | 📈 Lifelong Learner
 </p>
 
 ---
